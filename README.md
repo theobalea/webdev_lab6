@@ -47,106 +47,106 @@ Take the css rules below and properly attach them to the html so that your index
 ***
 <!--This is one of very few situations where br is justified, a semantic break in the text. REMOVE the br in your final CSS -->
 
-{ text-decoration: none;<br>
-    position: absolute;<br>
-    top:-34px;<br>
-    right: 10px;<br>
-    color: white;<br>
+{ text-decoration: none;
+    position: absolute;
+    top:-34px;
+    right: 10px;
+    color: white;
   font-size: 1.8em;}
 ***
 
-{ margin-top: 20px;<br>
-  margin-left: 20px;<br>
+{ margin-top: 20px;
+  margin-left: 20px;
   margin-bottom: 20px;}
 ***
 
-{   position: absolute;<br>
-    left: 420px;<br>
-    top:5px;<br>
-  font-size: 3em;<br>
-    font-family: 'Devonshire', cursive;<br>
+{   position: absolute;
+    left: 420px;
+    top:5px;
+  font-size: 3em;
+    font-family: 'Devonshire', cursive;
   color: #E35335;}
 ***
 
-{ position: relative;<br>
-  margin-top: 40px;<br>
+{ position: relative;
+  margin-top: 40px;
   border-radius: 12px 12px 0px 0px;}
 ***
 
-{   background-color: #777;<br>
-    height: 80px;<br>
+{   background-color: #777;
+    height: 80px;
     clear: both;}
 ***
 
-{   list-style-type: none;<br>
-    margin: 0;<br>
-    padding: 0;<br>
-    float: left;<br>
-    position: relative;<br>
+{   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: relative;
     left:50%;}
 ***
 
-{   background-image: url("../images/repeating.png");<br>
+{   background-image: url("../images/repeating.png");
     float: left;}
 ***
 
 {   background-image: url("../images/black.jpg"); }
 ***
 
-{   min-height: 300px;<br>
-    width: 715px;<br>
-    margin-right: 30px;<br>
-    float: left;<br>
+{   min-height: 300px;
+    width: 715px;
+    margin-right: 30px;
+    float: left;
     margin-left: 15px;}
 ***
 
-{ font-size: 2em;<br>
+{ font-size: 2em;
   font-weight: 900;}
 ***
 
-{   float: right;<br>
-    border: 2px solid blue;<br>
-  width: 300px;<br>
-    padding: 5px;<br>
-    background-color: white;<br>
+{   float: right;
+    border: 2px solid blue;
+  width: 300px;
+    padding: 5px;
+    background-color: white;
     margin: 10px 0 10px 20px;}
 ***
 
-{   min-height: 150px;<br>
-    width: 200px;<br>
+{   min-height: 150px;
+    width: 200px;
     float: left;}
 ***
 
-{   float: left;<br>
-    width: 100%;<br>
+{   float: left;
+    width: 100%;
     background-color: #333;}
 ***
 
-{   padding: 10px 25px;<br>
-    display: block;<br>
-    text-decoration: none;<br>
+{   padding: 10px 25px;
+    display: block;
+    text-decoration: none;
     color: #ccc;}
 ***
 
-{   background-color: #ccc;<br>
+{   background-color: #ccc;
     color: #333;}
 ***
 
-{   width: 960px;<br>
-    margin: 0 auto;<br>
-    box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);<br>
+{   width: 960px;
+    margin: 0 auto;
+    box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
     border-radius: 12px 12px 0px 0px; }
 ***
   
-{   float: left;<br>
-    position: relative;<br>
+{   float: left;
+    position: relative;
     right: 50%;}
 ***
-{       width: 960px;<br>
+{       width: 960px;
         text-align: center;}
 
 ***
-{       font-weight: 900;<br>
+{       font-weight: 900;
         font-size: 48px;}
 
 
